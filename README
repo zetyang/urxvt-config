@@ -11,3 +11,8 @@ tabbed:
   Shift-left/right: move between tabs
   Alt-[1-9] navigate using tab number
   Alt-left/right: move tab around
+
+
+Usage:
+
+Use this repo's `tabbed` file to replace `/etc/lib/urxvt/perl/tabbed`
