@@ -1,10 +1,5 @@
 
-urxvt config
-
-gt-tabbed:
-  It is derived from the default tabbed extension but the hotkeys are changed
-  to the gnome-terminal style.  Use Ctrl-Shift-T to create a new tab and use
-  Alt-[1-9] to navigate.
+urxvt tabbed extension modified
 
 tabbed:
   Shift-down:creat new tab
