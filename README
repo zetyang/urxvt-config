@@ -15,4 +15,4 @@ tabbed:
 
 Usage:
 
-Use this repo's `tabbed` file to replace `/etc/lib/urxvt/perl/tabbed`
+Use this repo's `tabbed` file to replace `/usr/lib/urxvt/perl/tabbed`
